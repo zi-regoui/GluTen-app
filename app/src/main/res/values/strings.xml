@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TenGluApp</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="dessiner_un_graph">Dessiner un graph</string>
+    <string name="telecharger_une_photo">Telecharger une photo</string>
+    <string name="telecharger_photo">Telecharger photo</string>
+    <string name="prendre_photo">Prendre photo</string>
+    <string name="title_activity_main2">Leanback MainActivity2</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="tension_metre">Tension-metre</string>
+    <string name="gluco_metre">Gluco-metre</string>
+    <string name="ajouter_image">Ajouter Image</string>
+    <string name="format_text">Format Text</string>
+    <string name="scanner_text">Scanner Text</string>
+    <string name="dessiner_graph">Dessiner Graph</string>
+</resources>

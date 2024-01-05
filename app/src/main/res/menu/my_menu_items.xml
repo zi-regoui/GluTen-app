@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/navig_tens"
+            android:icon="@drawable/ic_baseline_monitor_heart_24"
+            android:title="Tension metre" />
+        <item
+            android:id="@+id/navig_gluc"
+            android:icon="@drawable/ic_baseline_water_drop_24"
+            android:title="Gluco-metre" />
+    </group>
+
+</menu>
